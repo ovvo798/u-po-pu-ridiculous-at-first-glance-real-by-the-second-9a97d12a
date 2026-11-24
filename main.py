@@ -10,9 +10,9 @@ Standard library only; no network, no secrets, no input files.
 import os
 
 ENTRY = (
-    "We bottle the smell of your childhood home from old photos, "
-    "because homesick expats and grieving families will pay $40 for "
-    "one deep breath of grandma's kitchen."
+    "We bottle the smell of your childhood home from a single old photo, "
+    "because 280 million homesick migrants will pay $49 to breathe "
+    "grandma's kitchen one last time."
 )
 
 
